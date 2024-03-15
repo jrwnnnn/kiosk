@@ -7,7 +7,7 @@ Python: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-no
 mySQL: https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png
 -->
 
-7-ELEVEN themed web-based kiosk inteface. A Computer Programming NCII subject requirement <br>
+7-ELEVEN themed web-based kiosk inteface. A Computer Programming NCII subject requirement. <br>
 **Programmed and published on GitHub by Mark Jerwin [(@jrwnnnn)](https://github.com/jrwnnnn).** <br>
 > Status: Finished <br>
 ### How to use
