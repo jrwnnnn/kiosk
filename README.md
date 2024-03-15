@@ -11,6 +11,6 @@ mySQL: https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png
 **Programmed and published on GitHub by Mark Jerwin [(@jrwnnnn)](https://github.com/jrwnnnn).** <br>
 > Status: Finished <br>
 ### How to use
-View the website by running `main/global/frame_lang_select.html`.
-### Note
+View the website by running `main/global/frame_lang_select.html`
+### Sidenote
 This project is for school purposes only and is not affiliated with 7-ELEVEN in any way.
