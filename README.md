@@ -11,7 +11,7 @@ mySQL: https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png
 **Programmed and published on GitHub by Mark Jerwin [(@jrwnnnn)](https://github.com/jrwnnnn).** <br>
 > Status: Finished <br>
 ### How to use
-View the website by running `main/global/frame_lang_select.html` or by clicking [here](https://kiosk-jrwnnnn.netlify.app).
-[![Netlify Status](https://api.netlify.com/api/v1/badges/664b8460-6c05-4d1c-aff7-6cae081f311a/deploy-status)](https://app.netlify.com/sites/kiosk-jrwnnnn/deploys)
+View the website by running `main/global/frame_lang_select.html` or by clicking [here](https://kiosk-jrwnnnn.netlify.app). <br>
+**Hosting Status:** [![Netlify Status](https://api.netlify.com/api/v1/badges/664b8460-6c05-4d1c-aff7-6cae081f311a/deploy-status)](https://app.netlify.com/sites/kiosk-jrwnnnn/deploys)
 ### Sidenote
 This project is for school purposes only and is not affiliated with 7-ELEVEN in any way.
