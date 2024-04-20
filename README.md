@@ -9,7 +9,7 @@ mySQL: https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png
 
 7-ELEVEN themed web-based kiosk inteface. A Computer Programming NCII subject requirement. <br>
 **Programmed and published on GitHub by Mark Jerwin [(@jrwnnnn)](https://github.com/jrwnnnn).** <br>
-> Status: Finished <br>
+> Project Status: Finished <br>
 [![Netlify Status](https://api.netlify.com/api/v1/badges/664b8460-6c05-4d1c-aff7-6cae081f311a/deploy-status)](https://kiosk-jrwnnnn.netlify.app)
 ### How to use
 View the website by running `main/global/frame_lang_select.html` or by clicking [here](https://kiosk-jrwnnnn.netlify.app). <br>
