@@ -1,0 +1,19 @@
+body {
+    background-color: #008163;
+    padding: 0 7vw;
+}
+img {
+    margin-top: 30vh;
+    width: 100%;
+    align-self: center;
+    justify-self: center;
+}
+#main_text {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 1.25rem;
+}
+a {
+    color: white;
+}
